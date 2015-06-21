@@ -1,0 +1,7 @@
+[user]
+	name = Yoshihiro Yanagawa 
+	email = yanagawa@aucfan.com
+[color]
+	ui = true
+[push]
+	default = current
